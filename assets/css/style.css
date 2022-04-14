@@ -7,3 +7,16 @@
   font-size: 14px;
 }
 
+.container {
+  width: 75rem;
+  height: auto;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+.container-footer{
+  display: flex;
+  justify-content: center;
+}
+
