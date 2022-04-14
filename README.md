@@ -1,6 +1,6 @@
 # login-instagram
 Recriando a Tela de Login do instagram
 
-Tecnologias Utilizadas
--HTML
+Tecnologias Utilizadas <br>
+-HTML <br>
 -CSS
